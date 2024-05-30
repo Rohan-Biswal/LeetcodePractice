@@ -12,8 +12,7 @@ public class code1 {
             return;
         }
         System.out.println(n);
-        printNumber(n-1);
-        
+        printNumber(n-1);  
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
