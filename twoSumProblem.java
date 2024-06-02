@@ -13,7 +13,6 @@ public class twoSumProblem {
     }
     public static void main(String[] args) {
         int [] array ={1,8,13,24,5};
-        
         int target=14;
         int [] result=twoSumProb(array,target);
         System.out.println("The target is found at index "+result[0]+" and "+result[1]);
