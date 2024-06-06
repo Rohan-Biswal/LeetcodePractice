@@ -21,8 +21,8 @@ public class LenOfLastword {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the string");
         String s = sc.nextLine();
-        System.out.println("The lenght of last word of this string is- "+lengthOfLastWord(s));
-
+        // System.out.println("The lenght of last word of this string is- "+lengthOfLastWord(s));
+        
         
     }
 }
