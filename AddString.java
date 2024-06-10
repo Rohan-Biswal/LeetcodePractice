@@ -40,9 +40,9 @@ public class AddString {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the First Number");
         String firstNumber=sc.nextLine();
-        System.out.println("Enter the First Number");
+        System.out.println("Enter the Second Number");
         String secondNumber=sc.nextLine();
-        System.out.println("The result after adding is "+addStrings(firstNumber,secondNumber));
+        System.out.println("The result after adding both number is "+addStrings(firstNumber,secondNumber));
         
     }
     
