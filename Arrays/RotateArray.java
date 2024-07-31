@@ -25,7 +25,7 @@ public class RotateArray {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("Enter the target that you want find it.");
+        System.out.println("Enter the number of rotation that you want to perform.");
         int rotationCount=sc.nextInt();
         System.out.println("The array after rotaion "+rotationCount+" times is");
         rotate(array, rotationCount);
