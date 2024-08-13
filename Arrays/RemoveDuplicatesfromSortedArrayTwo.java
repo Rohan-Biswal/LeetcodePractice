@@ -25,6 +25,6 @@ public class RemoveDuplicatesfromSortedArrayTwo {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("After removing duplicates the size of array is-"+removeDuplicates(array));
+        System.out.println("After removing duplicates the size of array is:-"+removeDuplicates(array));
     }
 }
