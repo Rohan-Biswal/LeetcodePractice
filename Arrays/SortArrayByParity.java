@@ -35,7 +35,7 @@ public class SortArrayByParity {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }int [] result= sortArrayByParity(array);
-        System.out.println("The array after seprating even element in front and odd element at last is-");
+        System.out.println("The array after seprating even element in front and odd element at last is:-");
         for(int i=0;i<result.length;i++){
             System.out.print(result[i]+" ");
         }
