@@ -29,6 +29,6 @@ public class LongestConsuctiveSequence {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("The length of the longest consecutive elements sequence is-"+longestConsecutive(array));
+        System.out.println("The length of the longest consecutive elements sequence is:-"+longestConsecutive(array));
     }
 }
