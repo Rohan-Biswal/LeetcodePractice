@@ -20,6 +20,6 @@ public class MonotonicArray {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("Is the given array is monotonic ?-"+isMonotonic(array));
+        System.out.println("Is the given array is monotonic ?:-"+isMonotonic(array));
     }
 }
