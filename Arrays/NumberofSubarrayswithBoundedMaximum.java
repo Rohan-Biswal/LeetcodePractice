@@ -26,6 +26,6 @@ public class NumberofSubarrayswithBoundedMaximum {
         int left=sc.nextInt();
         System.out.println("enetr the value of right");
         int right=sc.nextInt();
-        System.out.println("The number of contiguous non-empty subarrays is-"+numSubarrayBoundedMax(array, left, right));
+        System.out.println("The number of contiguous non-empty subarrays is:-"+numSubarrayBoundedMax(array, left, right));
     }
 }
