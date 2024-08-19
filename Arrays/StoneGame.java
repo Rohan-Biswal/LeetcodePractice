@@ -25,6 +25,6 @@ public class StoneGame {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("Alice won the game ?-"+stoneGame(array));
+        System.out.println("Alice won the game ?:-"+stoneGame(array));
     }
 }
