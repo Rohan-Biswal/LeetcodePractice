@@ -25,6 +25,6 @@ public class MaximumProductofThreeNumbers {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("Three numbers whose product is maximum.The product is -"+maximumProduct(array));
+        System.out.println("Three numbers whose product is maximum.The product is :-"+maximumProduct(array));
     }
 }
