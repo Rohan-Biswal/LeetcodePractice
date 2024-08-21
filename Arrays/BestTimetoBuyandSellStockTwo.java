@@ -23,6 +23,6 @@ public class BestTimetoBuyandSellStockTwo {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("The maximum profit you can achieve is-"+maxProfit(array));
+        System.out.println("The maximum profit you can achieve is :-"+maxProfit(array));
     }
 }
