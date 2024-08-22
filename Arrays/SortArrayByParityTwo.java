@@ -26,7 +26,7 @@ public class SortArrayByParityTwo {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("Array that satisfies this condition is-");
+        System.out.println("Array that satisfies this condition is:-");
         int[] result=sortArrayByParityII(array);
         for(int i=0;i<length;i++){
             System.out.print(result[i]+" ");
