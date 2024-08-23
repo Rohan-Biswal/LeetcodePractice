@@ -34,7 +34,7 @@ public class RevealCardsInIncreasingOrder {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("An ordering of the deck that would reveal the cards in increasing order is-");
+        System.out.println("An ordering of the deck that would reveal the cards in increasing order is :-");
         int[] result=deckRevealedIncreasing(array);
         for(int i=0;i<length;i++){
             System.out.print(result[i]+" ");
