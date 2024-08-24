@@ -30,6 +30,6 @@ public class AddtoArrayFormofInteger {
         }
         System.out.println("Enter the value of k");
         int k=sc.nextInt();
-        System.out.println("The array-form of the integer num + k is-"+addToArrayForm(array,k));
+        System.out.println("The array-form of the integer num + k is :-"+addToArrayForm(array,k));
     }
 }
