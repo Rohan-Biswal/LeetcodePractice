@@ -53,6 +53,6 @@ public class FindAndReplaceinString {
         for(int i=0;i<Srclength;i++){
             target[i]=sc.next();
         }
-        System.out.println("The resulting string after performing all replacement operations on s is-"+findReplaceString(s, indices, source, target));
+        System.out.println("The resulting string after performing all replacement operations on s is :-"+findReplaceString(s, indices, source, target));
     }
 }
