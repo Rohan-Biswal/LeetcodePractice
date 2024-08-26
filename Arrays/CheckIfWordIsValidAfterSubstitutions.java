@@ -35,6 +35,6 @@ public class CheckIfWordIsValidAfterSubstitutions {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the String");
         String string=sc.next();
-        System.out.println("s is a valid string ?"+isValid(string));
+        System.out.println("s is a valid string ?:-"+isValid(string));
     }
 }
