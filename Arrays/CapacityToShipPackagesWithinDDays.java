@@ -42,6 +42,6 @@ public class CapacityToShipPackagesWithinDDays {
         }
         System.out.println("Enter the value of days");
         int days=sc.nextInt();
-        System.out.println("The least weight capacity of the ship that will result in all the packages on the conveyor belt being shipped within days is-"+shipWithinDays(array, days));
+        System.out.println("The least weight capacity of the ship that will result in all the packages on the conveyor belt being shipped within days is :-"+shipWithinDays(array, days));
     }
 }
