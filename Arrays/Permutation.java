@@ -34,6 +34,6 @@ public class Permutation {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("All the possible permutations is-"+permute(array));
+        System.out.println("All the possible permutations is :-"+permute(array));
     }
 }
