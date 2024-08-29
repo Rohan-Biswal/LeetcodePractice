@@ -42,7 +42,7 @@ public class TopKFrequentElements {
         System.out.println("Enter the value of k");
         int k=sc.nextInt();
         int[] result=topKFrequent(array, k);
-        System.out.println("The k most frequent elements-");
+        System.out.println("The k most frequent elements is :-");
         for(int i=0;i<result.length;i++){
             System.out.print(result[i]+" ");
         }
