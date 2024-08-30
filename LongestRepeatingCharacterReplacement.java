@@ -32,6 +32,6 @@ public class LongestRepeatingCharacterReplacement {
         String string = sc.nextLine();
         System.out.println("Enter the value of K");
         int k=sc.nextInt();
-        System.out.println("The length of the longest substring containing the same letter you can get after performing the above operations is-"+characterReplacement(string,k));
+        System.out.println("The length of the longest substring containing the same letter you can get after performing the above operations is :-"+characterReplacement(string,k));
     }
 }
