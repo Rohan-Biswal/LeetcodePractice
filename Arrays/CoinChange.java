@@ -29,6 +29,6 @@ public class CoinChange {
         }
         System.out.println("Enter the value of amount");
         int amount=sc.nextInt();
-        System.out.println("The fewest number of coins that you need to make up that amount is-"+coinChange(array, amount));
+        System.out.println("The fewest number of coins that you need to make up that amount is :-"+coinChange(array, amount));
     }
 }
