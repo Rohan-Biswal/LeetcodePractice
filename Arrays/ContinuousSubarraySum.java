@@ -32,6 +32,6 @@ public class ContinuousSubarraySum {
         }
         System.out.println("Enter the value of k");
         int k=sc.nextInt();
-        System.out.println(" Is nums array has a good subarray -"+checkSubarraySum(array, k));
+        System.out.println("Is nums array has a good subarray :-"+checkSubarraySum(array, k));
     }
 }
