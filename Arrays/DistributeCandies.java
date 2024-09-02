@@ -27,6 +27,6 @@ public class DistributeCandies {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("The maximum number of different types of candies she can eat if she only eats n / 2 of them is-"+distributeCandies(array));
+        System.out.println("The maximum number of different types of candies she can eat if she only eats n / 2 of them is :-"+distributeCandies(array));
     }
 }
