@@ -25,6 +25,6 @@ public class HeightChecker {
         for(int i=0;i<length;i++){
             array[i]=sc.nextInt();
         }
-        System.out.println("The number of indices where heights[i] != expected[i] is-"+heightChecker(array));
+        System.out.println("The number of indices where heights[i] != expected[i] is :-"+heightChecker(array));
     }
 }
