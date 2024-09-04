@@ -47,6 +47,6 @@ public class Heaters {
         for(int i=0;i<heaterslength;i++){
             heaters[i]=sc.nextInt();
         }
-        System.out.println("The minimum radius standard of heaters so that those heaters could cover all houses is -"+findRadius(houses, heaters));
+        System.out.println("The minimum radius standard of heaters so that those heaters could cover all houses is:-"+findRadius(houses, heaters));
     }
 }
