@@ -17,6 +17,6 @@ public class ReversePrefixOfWord {
 
         System.out.println("Enter the character");
         char ch=sc.next().charAt(0);
-        System.out.println("The resulting string after reversed prefix of word is-"+reversePrefix(word, ch));
+        System.out.println("The resulting string after reversed prefix of word is:-"+reversePrefix(word, ch));
     }
 }
